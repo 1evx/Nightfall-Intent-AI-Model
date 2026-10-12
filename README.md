@@ -130,5 +130,3 @@ The included dataset contains 3,702 synthetic examples split by phrase family:
 | Validation | 366 |
 | Test | 380 |
 
-Family-level splitting keeps augmented versions of the same sentence template together, reducing leakage between splits. However, synthetic templates do not fully represent real player language, typos, speech-recognition errors, or new rooms and tasks. Treat this model as a project-specific command classifier rather than a general natural-language understanding model.
-
