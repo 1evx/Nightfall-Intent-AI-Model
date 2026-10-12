@@ -132,10 +132,3 @@ The included dataset contains 3,702 synthetic examples split by phrase family:
 
 Family-level splitting keeps augmented versions of the same sentence template together, reducing leakage between splits. However, synthetic templates do not fully represent real player language, typos, speech-recognition errors, or new rooms and tasks. Treat this model as a project-specific command classifier rather than a general natural-language understanding model.
 
-## Public repository checklist
-
-- Review the commit history for secrets before publishing; `.gitignore` does not remove files already committed.
-- Choose and add a `LICENSE` if you want others to reuse or modify the code.
-- If the project is linked to the full game, document where the Unity-side integration code lives.
-- Do not commit local `.env` files, private keys, experiment logs, or `checkpoint.pt`.
-
