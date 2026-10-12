@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Follow",
+    "Stay",
+    "Resume",
+    "Give",
+    "Return",
+    "Task",
+    "Room",
+    "Location",
+    "Status",
+    "Suggestion",
+    "ResourceAll",
+    "ResourceOne",
+    "None"
+  ],
+  "rooms": [
+    "Guest Room",
+    "Dining Room",
+    "Shower Room",
+    "Kitchen",
+    "Meeting Room",
+    "Rest Room",
+    "Entrance",
+    "Front Porch",
+    "Storage Room",
+    "Outpost",
+    "Library",
+    "Lumberyard",
+    "Bath Room",
+    "Second Floor Sub Room",
+    "Central Hall",
+    "Fishing Hut",
+    "Second Floor",
+    "Master Room",
+    "NoMatch"
+  ],
+  "tasks": [
+    "Prepare Venture",
+    "Fishing",
+    "Woodcutting",
+    "Resting",
+    "NoMatch"
+  ],
+  "stock": [
+    "None",
+    "Food",
+    "Pill",
+    "Medicine"
+  ],
+  "noMatch": "NoMatch"
+}

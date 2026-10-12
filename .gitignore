@@ -1,0 +1,57 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Packaging and build output
+build/
+dist/
+report/
+*.egg-info/
+
+# Local editor, IDE, and AI-assistant state
+.claude/
+.idea/
+.vscode/
+*.code-workspace
+*.swp
+*~
+
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local secrets and environment overrides
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Training artifacts and experiment logs
+# The checkpoint can be reproduced with train.py. The deployable ONNX model
+# and its metadata under export/ are intentionally kept in version control.
+checkpoint.pt
+checkpoints/
+runs/
+wandb/
+lightning_logs/
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+

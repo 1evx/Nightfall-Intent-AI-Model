@@ -1,0 +1,366 @@
+{"text": "head to Woodcutting.", "category": "Task", "room": null, "task": "Woodcutting", "stock": null}
+{"text": "let's do Woodcutting today", "category": "Task", "room": null, "task": "Woodcutting", "stock": null}
+{"text": "Hey Ava, walk to the Central Hall?", "category": "Room", "room": "Central Hall", "task": null, "stock": null}
+{"text": "can i have the some medicine back", "category": "Return", "room": null, "task": null, "stock": "Medicine"}
+{"text": "Take some a pill from me", "category": "Give", "room": null, "task": null, "stock": "Pill"}
+{"text": "Deshawn, move to the Fishing Hut", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "Hey Tom, don't budge?", "category": "Stay", "room": null, "task": null, "stock": null}
+{"text": "Priya, are you doing good?", "category": "Status", "room": null, "task": null, "stock": null}
+{"text": "please walk to the central hall!", "category": "Room", "room": "Central Hall", "task": null, "stock": null}
+{"text": "Take back the meds?", "category": "Return", "room": null, "task": null, "stock": "Medicine"}
+{"text": "Let's do House today?", "category": "Task", "room": null, "task": "Resting", "stock": null}
+{"text": "Ava, follow me around", "category": "Follow", "room": null, "task": null, "stock": null}
+{"text": "Return to normal?", "category": "Resume", "room": null, "task": null, "stock": null}
+{"text": "Go to Front Porch.", "category": "Task", "room": null, "task": "Resting", "stock": null}
+{"text": "Can you walk alongside me", "category": "Follow", "room": null, "task": null, "stock": null}
+{"text": "Can you any recommendation", "category": "Suggestion", "room": null, "task": null, "stock": null}
+{"text": "Nice weather today!", "category": "None", "room": null, "task": null, "stock": null}
+{"text": "any tip", "category": "Suggestion", "room": null, "task": null, "stock": null}
+{"text": "Walk to the Dining Room", "category": "Room", "room": "Dining Room", "task": null, "stock": null}
+{"text": "send them to cut wood!", "category": "Task", "room": null, "task": "Woodcutting", "stock": null}
+{"text": "here, take some a pill", "category": "Give", "room": null, "task": null, "stock": "Pill"}
+{"text": "Please stay put for now", "category": "Stay", "room": null, "task": null, "stock": null}
+{"text": "hey Deshawn, what's in stock?", "category": "ResourceAll", "room": null, "task": null, "stock": null}
+{"text": "Can you grab a snack from central hall.", "category": "Give", "room": null, "task": null, "stock": "Food"}
+{"text": "Go wander the Central Hall", "category": "Room", "room": "Central Hall", "task": null, "stock": null}
+{"text": "check our supplies", "category": "ResourceAll", "room": null, "task": null, "stock": null}
+{"text": "can you Home.", "category": "Task", "room": null, "task": "Resting", "stock": null}
+{"text": "Hey Jonah, let's do Fish today?", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "hey, please go to the fishing hut", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "Tom -- go wander the Central Hall", "category": "Room", "room": "Central Hall", "task": null, "stock": null}
+{"text": "can you go to the Master Room?", "category": "Room", "room": "Master Room", "task": null, "stock": null}
+{"text": "Priya, any tip!", "category": "Suggestion", "room": null, "task": null, "stock": null}
+{"text": "Hey, go check out the Central Hall", "category": "Room", "room": "Central Hall", "task": null, "stock": null}
+{"text": "hey Sarah, cut some firewood.", "category": "Task", "room": null, "task": "Woodcutting", "stock": null}
+{"text": "hey elena, say where you're standing", "category": "Location", "room": null, "task": null, "stock": null}
+{"text": "wait for me right here?", "category": "Stay", "room": null, "task": null, "stock": null}
+{"text": "please go fetch some pills yourself", "category": "Give", "room": null, "task": null, "stock": "Pill"}
+{"text": "what's in stock", "category": "ResourceAll", "room": null, "task": null, "stock": null}
+{"text": "can you head to Fishing", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "go do fishing", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "take some a pill from me!", "category": "Give", "room": null, "task": null, "stock": "Pill"}
+{"text": "grab a snack from central hall", "category": "Give", "room": null, "task": null, "stock": "Food"}
+{"text": "hey Sarah, go to the Fishing Hut.", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "Jonah, send them to the Fishing Hut.", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "can i have the some medicine back", "category": "Return", "room": null, "task": null, "stock": "Medicine"}
+{"text": "start woodcutting", "category": "Task", "room": null, "task": "Woodcutting", "stock": null}
+{"text": "Nice weather today?", "category": "None", "room": null, "task": null, "stock": null}
+{"text": "Could you take back the meds!", "category": "Return", "room": null, "task": null, "stock": "Medicine"}
+{"text": "Get pills from central hall yourself!", "category": "Give", "room": null, "task": null, "stock": "Pill"}
+{"text": "take some a pill from me!", "category": "Give", "room": null, "task": null, "stock": "Pill"}
+{"text": "Please nice weather today!", "category": "None", "room": null, "task": null, "stock": null}
+{"text": "Head to Fishing!", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "Say where you're standing!", "category": "Location", "room": null, "task": null, "stock": null}
+{"text": "head to the Meeting Room!", "category": "Room", "room": "Meeting Room", "task": null, "stock": null}
+{"text": "hey Deshawn, come stand next to me.", "category": "Follow", "room": null, "task": null, "stock": null}
+{"text": "Send them to cut wood!", "category": "Task", "room": null, "task": "Woodcutting", "stock": null}
+{"text": "How much resources", "category": "ResourceAll", "room": null, "task": null, "stock": null}
+{"text": "Hey, let's do House today", "category": "Task", "room": null, "task": "Resting", "stock": null}
+{"text": "head to the Second Floor Sub Room", "category": "Room", "room": "Second Floor Sub Room", "task": null, "stock": null}
+{"text": "Marcus -- return that a meal to me", "category": "Return", "room": null, "task": null, "stock": "Food"}
+{"text": "please go to the fishing hut?", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "jonah -- move to the fishing hut", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "Here, take some a pill", "category": "Give", "room": null, "task": null, "stock": "Pill"}
+{"text": "Can you how's our pills supply?", "category": "ResourceOne", "room": null, "task": null, "stock": "Pill"}
+{"text": "Walk alongside me", "category": "Follow", "room": null, "task": null, "stock": null}
+{"text": "Hey, send them to the Fishing Hut", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "could you don't budge", "category": "Stay", "room": null, "task": null, "stock": null}
+{"text": "Jonah -- where you are.", "category": "Location", "room": null, "task": null, "stock": null}
+{"text": "go back to what you were doing", "category": "Resume", "room": null, "task": null, "stock": null}
+{"text": "Return that a meal to me.", "category": "Return", "room": null, "task": null, "stock": "Food"}
+{"text": "i trust your judgment?", "category": "None", "room": null, "task": null, "stock": null}
+{"text": "Go back to your day-to-day routine.", "category": "Resume", "room": null, "task": null, "stock": null}
+{"text": "Don't budge", "category": "Stay", "room": null, "task": null, "stock": null}
+{"text": "priya, cut some firewood", "category": "Task", "room": null, "task": "Woodcutting", "stock": null}
+{"text": "tom, are you doing good", "category": "Status", "room": null, "task": null, "stock": null}
+{"text": "hey Priya, how's our pills supply?", "category": "ResourceOne", "room": null, "task": null, "stock": "Pill"}
+{"text": "can you go to the Master Room", "category": "Room", "room": "Master Room", "task": null, "stock": null}
+{"text": "Hey Jonah, are you doing good", "category": "Status", "room": null, "task": null, "stock": null}
+{"text": "Please Front Porch.", "category": "Task", "room": null, "task": "Resting", "stock": null}
+{"text": "Head to the Second Floor Sub Room", "category": "Room", "room": "Second Floor Sub Room", "task": null, "stock": null}
+{"text": "move to the Fishing Hut?", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "walk alongside me!", "category": "Follow", "room": null, "task": null, "stock": null}
+{"text": "could you let's do House today!", "category": "Task", "room": null, "task": "Resting", "stock": null}
+{"text": "Marcus -- send them to cut wood", "category": "Task", "room": null, "task": "Woodcutting", "stock": null}
+{"text": "could you return that a meal to me", "category": "Return", "room": null, "task": null, "stock": "Food"}
+{"text": "Jonah -- let's do Fish today", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "Head to the Second Floor Sub Room.", "category": "Room", "room": "Second Floor Sub Room", "task": null, "stock": null}
+{"text": "Please go to the Fishing Hut", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "take some a pill from me", "category": "Give", "room": null, "task": null, "stock": "Pill"}
+{"text": "send them to Come Back.", "category": "Task", "room": null, "task": "Resting", "stock": null}
+{"text": "i miss the old days", "category": "None", "room": null, "task": null, "stock": null}
+{"text": "can you rest", "category": "Task", "room": null, "task": "Resting", "stock": null}
+{"text": "Say where you're standing", "category": "Location", "room": null, "task": null, "stock": null}
+{"text": "Hey Tom, go back to your day-to-day routine", "category": "Resume", "room": null, "task": null, "stock": null}
+{"text": "hey Tom, where you are", "category": "Location", "room": null, "task": null, "stock": null}
+{"text": "Take back the meds!", "category": "Return", "room": null, "task": null, "stock": "Medicine"}
+{"text": "let's do front porch today", "category": "Task", "room": null, "task": "Resting", "stock": null}
+{"text": "Can you what's in stock.", "category": "ResourceAll", "room": null, "task": null, "stock": null}
+{"text": "walk to the dining room?", "category": "Room", "room": "Dining Room", "task": null, "stock": null}
+{"text": "Go to the Guest Room", "category": "Room", "room": "Guest Room", "task": null, "stock": null}
+{"text": "Hey Marcus, can i have the some medicine back", "category": "Return", "room": null, "task": null, "stock": "Medicine"}
+{"text": "walk alongside me.", "category": "Follow", "room": null, "task": null, "stock": null}
+{"text": "hey Ava, Fishing.", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "could you get pills from central hall yourself!", "category": "Give", "room": null, "task": null, "stock": "Pill"}
+{"text": "please go back to what you were doing!", "category": "Resume", "room": null, "task": null, "stock": null}
+{"text": "start woodcutting", "category": "Task", "room": null, "task": "Woodcutting", "stock": null}
+{"text": "Please grab some some pills yourself?", "category": "Give", "room": null, "task": null, "stock": "Pill"}
+{"text": "Can you check our supplies!", "category": "ResourceAll", "room": null, "task": null, "stock": null}
+{"text": "Go Resting", "category": "Task", "room": null, "task": "Resting", "stock": null}
+{"text": "Head to the Second Floor Sub Room", "category": "Room", "room": "Second Floor Sub Room", "task": null, "stock": null}
+{"text": "deshawn, go back to what you were doing", "category": "Resume", "room": null, "task": null, "stock": null}
+{"text": "Hey Tom, go to the Fishing Hut.", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "hey Marcus, please go to the Fishing Hut", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "walk to the Central Hall!", "category": "Room", "room": "Central Hall", "task": null, "stock": null}
+{"text": "return that a meal to me", "category": "Return", "room": null, "task": null, "stock": "Food"}
+{"text": "Jonah -- any recommendation", "category": "Suggestion", "room": null, "task": null, "stock": null}
+{"text": "hey, go fetch some pills yourself", "category": "Give", "room": null, "task": null, "stock": "Pill"}
+{"text": "Jonah, send them to Come Back?", "category": "Task", "room": null, "task": "Resting", "stock": null}
+{"text": "go check out the Central Hall.", "category": "Room", "room": "Central Hall", "task": null, "stock": null}
+{"text": "Don't budge", "category": "Stay", "room": null, "task": null, "stock": null}
+{"text": "go wander the Central Hall?", "category": "Room", "room": "Central Hall", "task": null, "stock": null}
+{"text": "hey Priya, how much resources", "category": "ResourceAll", "room": null, "task": null, "stock": null}
+{"text": "What do you suggest!", "category": "Suggestion", "room": null, "task": null, "stock": null}
+{"text": "hey, i miss the old days.", "category": "None", "room": null, "task": null, "stock": null}
+{"text": "where you are", "category": "Location", "room": null, "task": null, "stock": null}
+{"text": "Tom, let's do Woodcutting today.", "category": "Task", "room": null, "task": "Woodcutting", "stock": null}
+{"text": "Could you say where you're standing.", "category": "Location", "room": null, "task": null, "stock": null}
+{"text": "hey Deshawn, how are you feeling?", "category": "Status", "room": null, "task": null, "stock": null}
+{"text": "hey tom, rest", "category": "Task", "room": null, "task": "Resting", "stock": null}
+{"text": "what do you suggest!", "category": "Suggestion", "room": null, "task": null, "stock": null}
+{"text": "off to lumberyard", "category": "Task", "room": null, "task": "Woodcutting", "stock": null}
+{"text": "walk alongside me", "category": "Follow", "room": null, "task": null, "stock": null}
+{"text": "any tip.", "category": "Suggestion", "room": null, "task": null, "stock": null}
+{"text": "Hey, hand back the rations.", "category": "Return", "room": null, "task": null, "stock": "Food"}
+{"text": "move to the fishing hut", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "how are you feeling.", "category": "Status", "room": null, "task": null, "stock": null}
+{"text": "Can you what's in stock", "category": "ResourceAll", "room": null, "task": null, "stock": null}
+{"text": "start woodcutting", "category": "Task", "room": null, "task": "Woodcutting", "stock": null}
+{"text": "marcus, go back to your day-to-day routine.", "category": "Resume", "room": null, "task": null, "stock": null}
+{"text": "Could you off to Lumberyard!", "category": "Task", "room": null, "task": "Woodcutting", "stock": null}
+{"text": "Ava, move to the Fishing Hut.", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "head to woodcutting!", "category": "Task", "room": null, "task": "Woodcutting", "stock": null}
+{"text": "hey marcus, come stand next to me!", "category": "Follow", "room": null, "task": null, "stock": null}
+{"text": "Can you how are you feeling?", "category": "Status", "room": null, "task": null, "stock": null}
+{"text": "Hey Elena, how's our meals supply?", "category": "ResourceOne", "room": null, "task": null, "stock": "Food"}
+{"text": "Head to the Meeting Room!", "category": "Room", "room": "Meeting Room", "task": null, "stock": null}
+{"text": "Go check out the Central Hall", "category": "Room", "room": "Central Hall", "task": null, "stock": null}
+{"text": "How's our meals supply!", "category": "ResourceOne", "room": null, "task": null, "stock": "Food"}
+{"text": "Cut some firewood!", "category": "Task", "room": null, "task": "Woodcutting", "stock": null}
+{"text": "Hey Sarah, i miss the old days", "category": "None", "room": null, "task": null, "stock": null}
+{"text": "deshawn, how are you feeling.", "category": "Status", "room": null, "task": null, "stock": null}
+{"text": "Sarah, can you go to the Master Room.", "category": "Room", "room": "Master Room", "task": null, "stock": null}
+{"text": "take some a pill from me.", "category": "Give", "room": null, "task": null, "stock": "Pill"}
+{"text": "could you go back to what you were doing.", "category": "Resume", "room": null, "task": null, "stock": null}
+{"text": "Jonah, hand back the rations.", "category": "Return", "room": null, "task": null, "stock": "Food"}
+{"text": "Hey, let's do Fish today.", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "Please come stand next to me", "category": "Follow", "room": null, "task": null, "stock": null}
+{"text": "grab some a medkit yourself?", "category": "Give", "room": null, "task": null, "stock": "Medicine"}
+{"text": "Priya -- how are you feeling?", "category": "Status", "room": null, "task": null, "stock": null}
+{"text": "Hand back the rations!", "category": "Return", "room": null, "task": null, "stock": "Food"}
+{"text": "hey Deshawn, send them to the Fishing Hut?", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "Could you let's do Woodcutting today?", "category": "Task", "room": null, "task": "Woodcutting", "stock": null}
+{"text": "Tom, return that a meal to me", "category": "Return", "room": null, "task": null, "stock": "Food"}
+{"text": "Sarah, where you are", "category": "Location", "room": null, "task": null, "stock": null}
+{"text": "return to normal.", "category": "Resume", "room": null, "task": null, "stock": null}
+{"text": "hey, Fishing", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "come stand next to me", "category": "Follow", "room": null, "task": null, "stock": null}
+{"text": "Send them to the Fishing Hut!", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "take back the meds", "category": "Return", "room": null, "task": null, "stock": "Medicine"}
+{"text": "Hey, grab a snack from central hall", "category": "Give", "room": null, "task": null, "stock": "Food"}
+{"text": "where you are", "category": "Location", "room": null, "task": null, "stock": null}
+{"text": "go do Fishing", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "Send them to Come Back", "category": "Task", "room": null, "task": "Resting", "stock": null}
+{"text": "what do you suggest!", "category": "Suggestion", "room": null, "task": null, "stock": null}
+{"text": "Hey Deshawn, where you are", "category": "Location", "room": null, "task": null, "stock": null}
+{"text": "Stay put for now.", "category": "Stay", "room": null, "task": null, "stock": null}
+{"text": "go fetch some pills yourself", "category": "Give", "room": null, "task": null, "stock": "Pill"}
+{"text": "How much resources", "category": "ResourceAll", "room": null, "task": null, "stock": null}
+{"text": "Wait for me right here", "category": "Stay", "room": null, "task": null, "stock": null}
+{"text": "Elena, any tip", "category": "Suggestion", "room": null, "task": null, "stock": null}
+{"text": "go grab medicine from the central hub yourself.", "category": "Give", "room": null, "task": null, "stock": "Medicine"}
+{"text": "head to the second floor sub room.", "category": "Room", "room": "Second Floor Sub Room", "task": null, "stock": null}
+{"text": "off to Lumberyard!", "category": "Task", "room": null, "task": "Woodcutting", "stock": null}
+{"text": "Grab some a medkit yourself.", "category": "Give", "room": null, "task": null, "stock": "Medicine"}
+{"text": "hey deshawn, follow me around!", "category": "Follow", "room": null, "task": null, "stock": null}
+{"text": "go check out the Central Hall.", "category": "Room", "room": "Central Hall", "task": null, "stock": null}
+{"text": "Nice weather today", "category": "None", "room": null, "task": null, "stock": null}
+{"text": "Hey Ava, grab some some pills yourself?", "category": "Give", "room": null, "task": null, "stock": "Pill"}
+{"text": "go do fishing!", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "go to the Fishing Hut", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "check our supplies", "category": "ResourceAll", "room": null, "task": null, "stock": null}
+{"text": "Tom -- walk to the Central Hall", "category": "Room", "room": "Central Hall", "task": null, "stock": null}
+{"text": "Stay put for now", "category": "Stay", "room": null, "task": null, "stock": null}
+{"text": "here, take some a pill", "category": "Give", "room": null, "task": null, "stock": "Pill"}
+{"text": "let's do woodcutting today", "category": "Task", "room": null, "task": "Woodcutting", "stock": null}
+{"text": "Can you i miss the old days!", "category": "None", "room": null, "task": null, "stock": null}
+{"text": "walk alongside me", "category": "Follow", "room": null, "task": null, "stock": null}
+{"text": "let's do House today", "category": "Task", "room": null, "task": "Resting", "stock": null}
+{"text": "head to Fishing", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "I trust your judgment?", "category": "None", "room": null, "task": null, "stock": null}
+{"text": "here, take some a pill", "category": "Give", "room": null, "task": null, "stock": "Pill"}
+{"text": "Hand back the rations", "category": "Return", "room": null, "task": null, "stock": "Food"}
+{"text": "start woodcutting", "category": "Task", "room": null, "task": "Woodcutting", "stock": null}
+{"text": "Hey Marcus, wait for me right here!", "category": "Stay", "room": null, "task": null, "stock": null}
+{"text": "Wait for me right here?", "category": "Stay", "room": null, "task": null, "stock": null}
+{"text": "Priya, can you go to the Master Room?", "category": "Room", "room": "Master Room", "task": null, "stock": null}
+{"text": "walk to the Central Hall", "category": "Room", "room": "Central Hall", "task": null, "stock": null}
+{"text": "please go fetch some pills yourself", "category": "Give", "room": null, "task": null, "stock": "Pill"}
+{"text": "Home", "category": "Task", "room": null, "task": "Resting", "stock": null}
+{"text": "Ava, please go to the Fishing Hut", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "hey Tom, head to the Meeting Room", "category": "Room", "room": "Meeting Room", "task": null, "stock": null}
+{"text": "Ava, go check out the Central Hall.", "category": "Room", "room": "Central Hall", "task": null, "stock": null}
+{"text": "could you go to the Guest Room!", "category": "Room", "room": "Guest Room", "task": null, "stock": null}
+{"text": "any recommendation", "category": "Suggestion", "room": null, "task": null, "stock": null}
+{"text": "hey priya, hand back the rations.", "category": "Return", "room": null, "task": null, "stock": "Food"}
+{"text": "Deshawn, go grab medicine from the central hub yourself?", "category": "Give", "room": null, "task": null, "stock": "Medicine"}
+{"text": "Sarah -- grab some some pills yourself", "category": "Give", "room": null, "task": null, "stock": "Pill"}
+{"text": "Get pills from central hall yourself", "category": "Give", "room": null, "task": null, "stock": "Pill"}
+{"text": "hey tom, send them to the fishing hut?", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "Jonah, how much resources", "category": "ResourceAll", "room": null, "task": null, "stock": null}
+{"text": "Jonah, what's in stock!", "category": "ResourceAll", "room": null, "task": null, "stock": null}
+{"text": "Jonah -- i trust your judgment.", "category": "None", "room": null, "task": null, "stock": null}
+{"text": "go check out the Central Hall!", "category": "Room", "room": "Central Hall", "task": null, "stock": null}
+{"text": "send them to cut wood", "category": "Task", "room": null, "task": "Woodcutting", "stock": null}
+{"text": "go back to what you were doing.", "category": "Resume", "room": null, "task": null, "stock": null}
+{"text": "Deshawn, go grab medicine from the central hub yourself", "category": "Give", "room": null, "task": null, "stock": "Medicine"}
+{"text": "Ava -- check our supplies?", "category": "ResourceAll", "room": null, "task": null, "stock": null}
+{"text": "Let's do Front Porch today", "category": "Task", "room": null, "task": "Resting", "stock": null}
+{"text": "Head to Fishing!", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "Go fetch some pills yourself!", "category": "Give", "room": null, "task": null, "stock": "Pill"}
+{"text": "Can you follow me around?", "category": "Follow", "room": null, "task": null, "stock": null}
+{"text": "head to the second floor sub room?", "category": "Room", "room": "Second Floor Sub Room", "task": null, "stock": null}
+{"text": "How are you feeling!", "category": "Status", "room": null, "task": null, "stock": null}
+{"text": "how's our pills supply", "category": "ResourceOne", "room": null, "task": null, "stock": "Pill"}
+{"text": "Take some a pill from me?", "category": "Give", "room": null, "task": null, "stock": "Pill"}
+{"text": "Send them to Come Back", "category": "Task", "room": null, "task": "Resting", "stock": null}
+{"text": "Deshawn, nice weather today", "category": "None", "room": null, "task": null, "stock": null}
+{"text": "Return to normal.", "category": "Resume", "room": null, "task": null, "stock": null}
+{"text": "could you follow me around", "category": "Follow", "room": null, "task": null, "stock": null}
+{"text": "Stay put for now", "category": "Stay", "room": null, "task": null, "stock": null}
+{"text": "How much resources.", "category": "ResourceAll", "room": null, "task": null, "stock": null}
+{"text": "Could you go back to what you were doing", "category": "Resume", "room": null, "task": null, "stock": null}
+{"text": "What's in stock?", "category": "ResourceAll", "room": null, "task": null, "stock": null}
+{"text": "head to woodcutting!", "category": "Task", "room": null, "task": "Woodcutting", "stock": null}
+{"text": "wait for me right here", "category": "Stay", "room": null, "task": null, "stock": null}
+{"text": "ava -- let's do fish today", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "Go to the Fishing Hut!", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "Sarah -- any recommendation", "category": "Suggestion", "room": null, "task": null, "stock": null}
+{"text": "Could you come stand next to me!", "category": "Follow", "room": null, "task": null, "stock": null}
+{"text": "go to front porch!", "category": "Task", "room": null, "task": "Resting", "stock": null}
+{"text": "Front Porch!", "category": "Task", "room": null, "task": "Resting", "stock": null}
+{"text": "grab some some pills yourself.", "category": "Give", "room": null, "task": null, "stock": "Pill"}
+{"text": "hey priya, how much resources?", "category": "ResourceAll", "room": null, "task": null, "stock": null}
+{"text": "go to the fishing hut", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "Hey Ava, Fishing?", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "Sarah, go to the Fishing Hut?", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "hey, go to front porch!", "category": "Task", "room": null, "task": "Resting", "stock": null}
+{"text": "Sarah -- return to normal", "category": "Resume", "room": null, "task": null, "stock": null}
+{"text": "Any tip", "category": "Suggestion", "room": null, "task": null, "stock": null}
+{"text": "Could you Fishing", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "can you grab some some pills yourself?", "category": "Give", "room": null, "task": null, "stock": "Pill"}
+{"text": "Tom -- check our supplies", "category": "ResourceAll", "room": null, "task": null, "stock": null}
+{"text": "Start woodcutting!", "category": "Task", "room": null, "task": "Woodcutting", "stock": null}
+{"text": "what do you suggest!", "category": "Suggestion", "room": null, "task": null, "stock": null}
+{"text": "Say where you're standing!", "category": "Location", "room": null, "task": null, "stock": null}
+{"text": "Elena, send them to cut wood.", "category": "Task", "room": null, "task": "Woodcutting", "stock": null}
+{"text": "priya, how's our meals supply?", "category": "ResourceOne", "room": null, "task": null, "stock": "Food"}
+{"text": "hey, get pills from central hall yourself", "category": "Give", "room": null, "task": null, "stock": "Pill"}
+{"text": "Move to the Fishing Hut", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "ava -- please go to the fishing hut", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "what do you suggest", "category": "Suggestion", "room": null, "task": null, "stock": null}
+{"text": "Hey Elena, go to the Guest Room", "category": "Room", "room": "Guest Room", "task": null, "stock": null}
+{"text": "How's our pills supply.", "category": "ResourceOne", "room": null, "task": null, "stock": "Pill"}
+{"text": "Here, take some a pill", "category": "Give", "room": null, "task": null, "stock": "Pill"}
+{"text": "please Go Resting", "category": "Task", "room": null, "task": "Resting", "stock": null}
+{"text": "how's our pills supply", "category": "ResourceOne", "room": null, "task": null, "stock": "Pill"}
+{"text": "Return to normal", "category": "Resume", "room": null, "task": null, "stock": null}
+{"text": "Sarah -- go back to your day-to-day routine?", "category": "Resume", "room": null, "task": null, "stock": null}
+{"text": "Off to Lumberyard!", "category": "Task", "room": null, "task": "Woodcutting", "stock": null}
+{"text": "Please don't budge!", "category": "Stay", "room": null, "task": null, "stock": null}
+{"text": "Please grab some a medkit yourself.", "category": "Give", "room": null, "task": null, "stock": "Medicine"}
+{"text": "Jonah -- go to Front Porch.", "category": "Task", "room": null, "task": "Resting", "stock": null}
+{"text": "wait for me right here!", "category": "Stay", "room": null, "task": null, "stock": null}
+{"text": "how's our meals supply", "category": "ResourceOne", "room": null, "task": null, "stock": "Food"}
+{"text": "Return that a meal to me.", "category": "Return", "room": null, "task": null, "stock": "Food"}
+{"text": "Hey Priya, can i have the some medicine back?", "category": "Return", "room": null, "task": null, "stock": "Medicine"}
+{"text": "Ava, go grab medicine from the central hub yourself!", "category": "Give", "room": null, "task": null, "stock": "Medicine"}
+{"text": "get pills from central hall yourself.", "category": "Give", "room": null, "task": null, "stock": "Pill"}
+{"text": "start woodcutting!", "category": "Task", "room": null, "task": "Woodcutting", "stock": null}
+{"text": "Head to the Meeting Room", "category": "Room", "room": "Meeting Room", "task": null, "stock": null}
+{"text": "I miss the old days", "category": "None", "room": null, "task": null, "stock": null}
+{"text": "what do you suggest?", "category": "Suggestion", "room": null, "task": null, "stock": null}
+{"text": "Hey, grab a snack from central hall!", "category": "Give", "room": null, "task": null, "stock": "Food"}
+{"text": "Hey Ava, let's do Front Porch today.", "category": "Task", "room": null, "task": "Resting", "stock": null}
+{"text": "can you go to the master room", "category": "Room", "room": "Master Room", "task": null, "stock": null}
+{"text": "Stay put for now", "category": "Stay", "room": null, "task": null, "stock": null}
+{"text": "Are you doing good", "category": "Status", "room": null, "task": null, "stock": null}
+{"text": "Go wander the Central Hall", "category": "Room", "room": "Central Hall", "task": null, "stock": null}
+{"text": "I trust your judgment!", "category": "None", "room": null, "task": null, "stock": null}
+{"text": "Hey Sarah, stay put for now", "category": "Stay", "room": null, "task": null, "stock": null}
+{"text": "walk to the dining room?", "category": "Room", "room": "Dining Room", "task": null, "stock": null}
+{"text": "hand back the rations", "category": "Return", "room": null, "task": null, "stock": "Food"}
+{"text": "hey jonah, take back the meds", "category": "Return", "room": null, "task": null, "stock": "Medicine"}
+{"text": "go do Fishing?", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "please i trust your judgment", "category": "None", "room": null, "task": null, "stock": null}
+{"text": "go to the Guest Room", "category": "Room", "room": "Guest Room", "task": null, "stock": null}
+{"text": "elena -- grab some some pills yourself", "category": "Give", "room": null, "task": null, "stock": "Pill"}
+{"text": "Follow me around", "category": "Follow", "room": null, "task": null, "stock": null}
+{"text": "Front Porch", "category": "Task", "room": null, "task": "Resting", "stock": null}
+{"text": "go wander the central hall.", "category": "Room", "room": "Central Hall", "task": null, "stock": null}
+{"text": "walk to the Dining Room", "category": "Room", "room": "Dining Room", "task": null, "stock": null}
+{"text": "go back to your day-to-day routine!", "category": "Resume", "room": null, "task": null, "stock": null}
+{"text": "Take back the meds", "category": "Return", "room": null, "task": null, "stock": "Medicine"}
+{"text": "Say where you're standing!", "category": "Location", "room": null, "task": null, "stock": null}
+{"text": "Cut some firewood.", "category": "Task", "room": null, "task": "Woodcutting", "stock": null}
+{"text": "Go wander the Central Hall?", "category": "Room", "room": "Central Hall", "task": null, "stock": null}
+{"text": "Priya -- how's our meals supply", "category": "ResourceOne", "room": null, "task": null, "stock": "Food"}
+{"text": "Sarah -- go to the Guest Room!", "category": "Room", "room": "Guest Room", "task": null, "stock": null}
+{"text": "Grab some a medkit yourself!", "category": "Give", "room": null, "task": null, "stock": "Medicine"}
+{"text": "Sarah, how's our meals supply", "category": "ResourceOne", "room": null, "task": null, "stock": "Food"}
+{"text": "Can you follow me around.", "category": "Follow", "room": null, "task": null, "stock": null}
+{"text": "check our supplies?", "category": "ResourceAll", "room": null, "task": null, "stock": null}
+{"text": "Go to the Guest Room", "category": "Room", "room": "Guest Room", "task": null, "stock": null}
+{"text": "can you rest.", "category": "Task", "room": null, "task": "Resting", "stock": null}
+{"text": "go grab medicine from the central hub yourself?", "category": "Give", "room": null, "task": null, "stock": "Medicine"}
+{"text": "I miss the old days!", "category": "None", "room": null, "task": null, "stock": null}
+{"text": "go back to your day-to-day routine?", "category": "Resume", "room": null, "task": null, "stock": null}
+{"text": "Grab a snack from central hall!", "category": "Give", "room": null, "task": null, "stock": "Food"}
+{"text": "sarah, here, take some a pill.", "category": "Give", "room": null, "task": null, "stock": "Pill"}
+{"text": "head to Woodcutting!", "category": "Task", "room": null, "task": "Woodcutting", "stock": null}
+{"text": "Home", "category": "Task", "room": null, "task": "Resting", "stock": null}
+{"text": "Home!", "category": "Task", "room": null, "task": "Resting", "stock": null}
+{"text": "don't budge?", "category": "Stay", "room": null, "task": null, "stock": null}
+{"text": "head to the Meeting Room?", "category": "Room", "room": "Meeting Room", "task": null, "stock": null}
+{"text": "are you doing good?", "category": "Status", "room": null, "task": null, "stock": null}
+{"text": "can i have the some medicine back!", "category": "Return", "room": null, "task": null, "stock": "Medicine"}
+{"text": "Deshawn -- Go Resting.", "category": "Task", "room": null, "task": "Resting", "stock": null}
+{"text": "Nice weather today.", "category": "None", "room": null, "task": null, "stock": null}
+{"text": "Deshawn, grab some a medkit yourself!", "category": "Give", "room": null, "task": null, "stock": "Medicine"}
+{"text": "Walk to the Dining Room.", "category": "Room", "room": "Dining Room", "task": null, "stock": null}
+{"text": "any tip", "category": "Suggestion", "room": null, "task": null, "stock": null}
+{"text": "marcus -- let's do front porch today.", "category": "Task", "room": null, "task": "Resting", "stock": null}
+{"text": "can you come stand next to me", "category": "Follow", "room": null, "task": null, "stock": null}
+{"text": "Could you cut some firewood?", "category": "Task", "room": null, "task": "Woodcutting", "stock": null}
+{"text": "hey Deshawn, Front Porch!", "category": "Task", "room": null, "task": "Resting", "stock": null}
+{"text": "please i trust your judgment!", "category": "None", "room": null, "task": null, "stock": null}
+{"text": "Send them to the Fishing Hut?", "category": "Task", "room": null, "task": "Fishing", "stock": null}
+{"text": "Sarah, any recommendation!", "category": "Suggestion", "room": null, "task": null, "stock": null}
+{"text": "Any recommendation", "category": "Suggestion", "room": null, "task": null, "stock": null}
+{"text": "hey, walk to the Dining Room?", "category": "Room", "room": "Dining Room", "task": null, "stock": null}
+{"text": "Grab some a medkit yourself", "category": "Give", "room": null, "task": null, "stock": "Medicine"}
+{"text": "elena -- send them to cut wood!", "category": "Task", "room": null, "task": "Woodcutting", "stock": null}
+{"text": "Go fetch some pills yourself", "category": "Give", "room": null, "task": null, "stock": "Pill"}
+{"text": "Walk to the Central Hall", "category": "Room", "room": "Central Hall", "task": null, "stock": null}
+{"text": "Can i have the some medicine back!", "category": "Return", "room": null, "task": null, "stock": "Medicine"}
+{"text": "are you doing good?", "category": "Status", "room": null, "task": null, "stock": null}
+{"text": "grab a snack from central hall.", "category": "Give", "room": null, "task": null, "stock": "Food"}
+{"text": "cut some firewood?", "category": "Task", "room": null, "task": "Woodcutting", "stock": null}
+{"text": "get pills from central hall yourself?", "category": "Give", "room": null, "task": null, "stock": "Pill"}
+{"text": "please go resting.", "category": "Task", "room": null, "task": "Resting", "stock": null}
+{"text": "go grab medicine from the central hub yourself?", "category": "Give", "room": null, "task": null, "stock": "Medicine"}
+{"text": "head to the Meeting Room.", "category": "Room", "room": "Meeting Room", "task": null, "stock": null}
+{"text": "return to normal", "category": "Resume", "room": null, "task": null, "stock": null}
+{"text": "How's our pills supply", "category": "ResourceOne", "room": null, "task": null, "stock": "Pill"}
+{"text": "Tom, Rest", "category": "Task", "room": null, "task": "Resting", "stock": null}
+{"text": "Can you go to the Master Room!", "category": "Room", "room": "Master Room", "task": null, "stock": null}
