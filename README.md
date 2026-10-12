@@ -139,7 +139,3 @@ Family-level splitting keeps augmented versions of the same sentence template to
 - If the project is linked to the full game, document where the Unity-side integration code lives.
 - Do not commit local `.env` files, private keys, experiment logs, or `checkpoint.pt`.
 
-## Documentation
-
-More detailed implementation and evaluation notes are available in [`report/4.5_Implementation.md`](report/4.5_Implementation.md) and [`report/5_Result_and_Discussion.md`](report/5_Result_and_Discussion.md).
-
